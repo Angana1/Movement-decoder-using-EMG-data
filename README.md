@@ -1,4 +1,4 @@
-# 🧠 EMG Signal Analysis to Predict Finger Joint Movements
+# 🦾 EMG Signal Analysis to Predict Finger Joint Movements
 ## Neural Signals and Signal Processing - Course Project (Autumn 2025)
 
 ##  Abstract
